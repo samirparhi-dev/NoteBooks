@@ -1,11 +1,29 @@
 # 📗 SamPyNotes 
-These are the various `Jupyter Notebook` in `python` or in `Julia` Created during my learning of AI ML Hand-On.
 
-# Ground Rules for Usage:
+These are various `Jupyter Notebooks` in `Python` or `Julia`, created during my hands-on learning journey in AI and ML. 🌟
 
--> Free to use for individual, Non-Profit Organization and for any Educational institution
--> You can use it with Atribution Example:
-  -> `Authored by : @samirparhi-dev`
-  -> `Created by : @samirparhi-dev`
--> Feel free to log an Issue if you find anything Weired or not working as Expected.
--> Write to me mailto:samirparhi@gmail.com
+---
+
+## 🌟 Ground Rules for Usage
+
+👉 **Free to use** for:
+- 🧑‍🤝‍🧑 Individuals
+- 🤝 Non-Profit Organizations
+- 🎓 Educational Institutions
+
+👉 **Usage with Attribution**:
+- Attribute the work if you like:
+    ```plaintext
+    Authored by: @samirparhi-dev  
+    Created by: @samirparhi-dev
+    ```
+
+👉 **Found something weird or broken?**  
+Feel free to log an [issue](https://github.com/)! 🐛
+
+👉 **Need help or have feedback?**  
+Write to me at 📧 [samirparhi@gmail.com](mailto:samirparhi@gmail.com)
+
+---
+
+💡 *Happy Learning and Exploring!* 🚀
