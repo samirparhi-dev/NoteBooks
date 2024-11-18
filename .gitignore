@@ -1,0 +1,64 @@
+# Rust
+/target/
+/**/*.rs.bk
+Cargo.lock
+*.rs.bk
+*.log
+*.profraw
+*.profdata
+*.dSYM
+*.so
+*.d
+*.rlib
+*.dll
+*.pdb
+*.a
+*.lib
+*.exe
+*.node_modules
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.sqlite3
+*.env
+*.venv
+env/
+venv/
+ENV/
+venv.bak/
+site/
+.coverage
+*.pytest_cache/
+
+# Julia
+*.jld2
+*.jl.so
+*.toml.lock
+*.ipynb_checkpoints/
+.project.toml/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.DS_Store
+dist/
+*.env.local
+*.env.development
+*.env.production
+.idea/
+.vscode/
+
+# Leptos
+/leptos/
+target/cargo/ system-wise/
+cargo lockfile node.lock
