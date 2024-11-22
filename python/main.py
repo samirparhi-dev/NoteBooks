@@ -1,5 +1,6 @@
-from awsome_rust import generate_toml_file
+from awsome_repos import generate_json_file
+
 
 # Run the script
 if __name__ == "__main__":
-    generate_toml_file()
+    generate_json_file()
